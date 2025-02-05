@@ -34,6 +34,4 @@ Pour Qui ?
 
 Que vous soyez data scientist, développeur ou marketeur, ce projet vous offre un aperçu concret de l’automatisation des rapports marketing et de l’intégration d’intelligence prédictive pour booster votre prise de décision.
 
-N’hésitez pas à explorer, cloner et contribuer à ce projet !
-Pour toute question ou collaboration, contactez-moi directement.
 Ensemble, transformons vos données en opportunités !
