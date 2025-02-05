@@ -30,8 +30,8 @@ Fonctionnalités Clés
     Analyse Prédictive :
     Un modèle de machine learning intégré pour prévoir les performances futures et aider à la prise de décision stratégique.
 
-Pour Qui ?
 
-Que vous soyez data scientist, développeur ou marketeur, ce projet vous offre un aperçu concret de l’automatisation des rapports marketing et de l’intégration d’intelligence prédictive pour booster votre prise de décision.
+Ce projet vous offre un aperçu concret de l’automatisation des rapports marketing et de l’intégration d’intelligence prédictive pour booster votre prise de décision.
 
-Ensemble, transformons vos données en opportunités !
+Pour plus d'informations, contactez-moi.
+Ensemble, transformons vos données en opportunités ! 
